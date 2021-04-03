@@ -1,5 +1,5 @@
 # Golang vatcalculator package
- **a simple vat calculator package**
+ **A simple vat calculator golang package**
 
 
 ## Features
